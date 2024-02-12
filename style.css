@@ -1,0 +1,22 @@
+css
+body {
+    font-family: Arial, sans-serif;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.bio {
+    background-color: #3300ff; /* Primary box color */
+    color: white;
+    padding: 20px;
+    margin: 20px 0;
+}
+.bio2 {
+    background-color: #ff0000; /* Secondary box color */
+    color: white;
+    padding: 20px;
+    margin: 20px 0;
+}
+
